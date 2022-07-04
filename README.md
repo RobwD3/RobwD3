@@ -1,4 +1,4 @@
-### Hello, I am Robert Decker
+### Hello, I'm Robert Decker
 
 Here are some ideas to get you started:
 
